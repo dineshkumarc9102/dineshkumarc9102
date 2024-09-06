@@ -1,4 +1,4 @@
-👋 Hello, I’m @dineshkumar
-🌟 Passionate about Design & Development
-🚀 Currently exploring the MERN Stack
-📧 Connect with me at: dinesh-kumar-portfolio-website.netlify.app
+-👋 Hello, I’m @dineshkumar <br>
+-🌟 Passionate about Design & Development <br>
+-🚀 Currently exploring the MERN Stack <br>
+-📧 Connect with me at: dinesh-kumar-portfolio-website.netlify.app <br>
