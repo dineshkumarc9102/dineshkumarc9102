@@ -1,5 +1,17 @@
 # 💫 About Me:
-👋 Hello I'm Dinesh Kumar<br>🧩 Aspiring Front-End Developer & UI/UX Designer<br>🔭 I'm currently learning Tech Stack<br>💼 Executive Trainee at TVS Motor Company<br>🌱 Growing in SAP Functional Consulting, Data Analytics & Frontend Development<br>🎨 Designing interfaces with Adobe XD and building them with React<br>📊 Working with Excel & Power BI for data analysis and reporting<br>🤖 Background in Machine Learning & NLP projects<br>🛠️ Tech: HTML · CSS · JavaScript · React · Node.js · Python · SQL · Power BI<br>💡 Passionate about simplifying processes through technology<br>📫 Let's connect and build something impactful!
+## 👋 Hi, I'm Dinesh Kumar
+
+🚀 Product Engineering Enthusiast | Frontend & Data  
+
+💻 Building scalable web applications using React, Node.js, and Tailwind CSS  
+📊 Developing data-driven dashboards with Power BI and Excel  
+⚙️ Experience in SAP-based enterprise systems and digital transformation workflows  
+
+🔍 Strong interest in combining UI, data, and business logic to create impactful solutions  
+
+🧠 Background in Machine Learning & NLP projects  
+
+📫 Open to collaboration and opportunities
 
 
 # 💻 Tech Stack:
