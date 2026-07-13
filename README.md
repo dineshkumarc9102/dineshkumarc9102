@@ -1,12 +1,12 @@
 # 💫 About Me:
 ## 👋 Hi, I'm Dinesh Kumar
 
-🚀 Aspiring Product Engineer | Frontend • Data • Enterprise Systems
-💻 Building scalable and user-centric web applications using React, Node.js, and Tailwind CSS
-📊 Creating insight-driven dashboards with Power BI & Excel to solve real business problems
-⚙️ Hands-on experience in SAP systems and digital transformation initiatives
-🔍 Focused on integrating UX, data, and business workflows into efficient digital products
-🧠 Background in Machine Learning & NLP, with a problem-solving mindset
+🚀 Aspiring Product Engineer | Frontend • Data • Enterprise Systems <br/>
+💻 Building scalable and user-centric web applications using React, Node.js, and Tailwind CSS <br/>
+📊 Creating insight-driven dashboards with Power BI & Excel to solve real business problems <br/>
+⚙️ Hands-on experience in SAP systems and digital transformation initiatives <br/>
+🔍 Focused on integrating UX, data, and business workflows into efficient digital products <br/>
+🧠 Background in Machine Learning & NLP, with a problem-solving mindset <br/>
 🤝 Open to collaboration and opportunities to build impactful products
 
 # 💻 Tech Stack:
